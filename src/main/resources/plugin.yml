@@ -1,0 +1,10 @@
+name: AdvancementDisabler
+version: '${project.version}'
+main: com.strangeone101.advancementdisabler.AdvancementDisabler
+api-version: '1.18'
+authors: [StrangeOne101]
+description: Configure when advancements should be disabled
+permissions:
+  advancementdisabler.haspermission:
+    default: op
+    description: Is allowed to gain advancements
