@@ -14,5 +14,5 @@ DisabledWorlds:
 PermissionRequired: false
 ```
 
-**DisabledWorlds** - The list of worlds advancements are disabled in. Is case sensitive.
+**DisabledWorlds** - The list of worlds advancements are disabled in. Is case sensitive.<br>
 **PermissionRequired** - Whether to test if players have the `advancementdisabler.haspermission` permission. If they don't have it, advancements won't progress.
